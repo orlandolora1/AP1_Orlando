@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "72ldqIw4EKDVB2D1IqkIwffnqTrnhL+U/FcYOjE0YLdtWH5S3Px/fL62qtlXlZCEAUAiT7hHnW9eLoaN4YED9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lora\\OneDrive\\Escritorio\\Aplicada 1\\AP1 Orlando P1\\AP1 Orlando P1\\AP1 Orlando P1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lora\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
